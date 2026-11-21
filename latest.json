@@ -1,7 +1,7 @@
 {
   "product": "sfsu-journalism-success-planner",
-  "version": "1.0.0-beta.3.17",
+  "version": "1.0.0-beta.3.17.1",
   "schema": 1,
-  "digest": "531bc5e18c8b6c8dfe9fc5cae39df2a5f597a605b5c1d75372ea6b5058369405",
-  "signature": "aaVYSQVAoTsGydtkuRcTapGVoGxGY47SzvIqtV0VVJPm+IoFNi5/tdutF8SZZMmDdvPOToDCo4xgYLjoo9+Gkw=="
+  "digest": "ecd641c6016971f5813a4fc13ce5f8f3a1610310ba943cf248e823167ea19097",
+  "signature": "73kSBJpBuVaay9I+O+38r/c7QQPefOOpJ4tNrIvzLluxteGMgPelfHNazMzafwTiDXFFCQS2eNyKaX5+xurBGQ=="
 }
